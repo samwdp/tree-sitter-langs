@@ -576,3 +576,9 @@
 	update = none
 	ignore = dirty
 	branch = main
+[submodule "repos/odin"]
+	path = repos/odin
+	url = https://github.com/ap29600/tree-sitter-odin
+	branch = main
+	update = none
+	ignore = dirty
