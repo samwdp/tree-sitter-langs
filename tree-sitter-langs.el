@@ -180,6 +180,7 @@ See `tree-sitter-langs-repos'."
                 (meson-mode             . meson)
                 (ninja-mode             . ninja)
                 (noir-mode              . noir)
+                (odin-mode              . odin)
                 (ocaml-mode             . ocaml)
                 (org-mode               . org)
                 (pascal-mode            . pascal)
